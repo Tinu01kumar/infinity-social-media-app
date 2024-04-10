@@ -1,6 +1,6 @@
 # Social Media (Infinity)
 
-![Project Image](link_to_project_image)
+![Project Image](https://drive.google.com/file/d/1rRiB1GU_Ue4M1H2vlZpMo-5fp4wcebW_/view?usp=sharing)
 
 ## Table of Contents
 - [About](#about)
