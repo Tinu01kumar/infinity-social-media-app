@@ -39,5 +39,4 @@ Social Media (Infinity) is a full-stack social media application built using MER
 ## Contributing
 Contributions are welcome! Fork the repository and create a pull request with your proposed changes.
 
-## License
-This project is licensed under the [MIT License](link_to_license).
+
