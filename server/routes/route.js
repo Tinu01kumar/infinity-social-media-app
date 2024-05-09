@@ -52,13 +52,10 @@ router.post("/auth/googleaccount", googleaccount);
 router.post("/auth/logout", logout);
 //*************************** profile image upload ***************************/
 router.post("/upload/profileimage", upload.single("image"), uploadProfileImage);
-router.post("/profile-details", getProfielDetails);
 router.post("/upload/bannerimage", upload.single("image"), uploadBannerImage);
 //****************************POST******************************************** */
-router.post("/createpost", upload.single("image"), createPost);
 router.post("/getalluserpost", getAllPostOfUser);
 router.post("/getprofileimage", getprofileimage);
-router.post("/getallpost", getallpost);
 router.post("/creatorMode", changeCreatorMode);
 router.post("/friendRequest", SendfriendRequest);
 router.post("/getfriends", getAllUserFriends);
